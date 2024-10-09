@@ -1,5 +1,5 @@
 /*
-Question 2
+Question 10
 
 W.A.P. to accept a number as input from the user and check if it is trimorphic or not.
 [A number is said to be trimorphic if its cube ends in the number itself]
